@@ -14,7 +14,8 @@ The Python code in this repository reads in the Online Retail dataset and perfor
 - Use the Apriori algorithm to generate frequent itemsets with a minimum support of 0.07.
 - Generate association rules with a minimum lift of 6 and a minimum confidence of 0.8.
 - Visualize the results with a stacked bar chart showing the number of purchases for each item.
-- Requirements
+
+# Requirements
 The code in this repository requires the following Python libraries:
 
 - pandas
